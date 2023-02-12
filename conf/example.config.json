@@ -1,0 +1,6 @@
+{
+  "address": "127.0.0.1",
+  "port": "8080",
+  "run_mode": "debug",
+  "db_url": "postgres://api:api@localhost:5432/api?sslmode=disable"
+}
